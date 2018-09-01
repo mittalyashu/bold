@@ -1,0 +1,13 @@
+title: Blod
+email: yashu@codecarrot.net
+description: >-
+  This is our new blogging webstie, we are creating using jekyll with our live stream viewers.
+baseurl: ""
+url: "https://www.github.com/mittalyashu/newblog"
+twitter_username: mittalyashu77
+github_username:  mittalyashu
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
